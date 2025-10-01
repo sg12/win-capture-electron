@@ -1,0 +1,5 @@
+LIBRARY audio-hook
+EXPORTS
+OBS_AUDIO_HOOK_init
+OBS_AUDIO_HOOK_data
+OBS_AUDIO_HOOK_ready
